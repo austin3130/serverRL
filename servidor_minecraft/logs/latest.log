@@ -3724,3 +3724,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [17:16:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [17:16:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3684ms behind, skipping 73 tick(s)
 [17:19:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj has made the advancement [Monster Hunter]
+[17:20:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 1288 | 7816 ], underground: false
+[17:23:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was slain by Sea Serpent
+[17:23:41] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=1368, y=43, z=9256}
+[17:23:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2683ms behind, skipping 53 tick(s)
+[17:23:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was slain by Krake
+[17:23:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:24:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2141ms behind, skipping 42 tick(s)
+[17:24:05] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[17:24:05] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[0, 0, 15], dest=[1, 0, 15]}=Path, MazePassage{source=[2, 0, 15], dest=[1, 0, 15]}=Wall, MazePassage{source=[1, 1, 15], dest=[1, 0, 15]}=Wall, MazePassage{source=[1, 0, 14], dest=[1, 0, 15]}=Wall, MazePassage{source=[1, 0, 16], dest=[1, 0, 15]}=Wall, MazePassage{source=[1, -1, 15], dest=[1, 0, 15]}=Wall]
+[17:24:05] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[17:24:05] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[10, 1, 12], dest=[10, 0, 12]}=Wall, MazePassage{source=[10, 0, 11], dest=[10, 0, 12]}=Path, MazePassage{source=[10, -1, 12], dest=[10, 0, 12]}=Wall]
+[17:24:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj has made the advancement [Stone Age]
+[17:24:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Austiii_
+[17:25:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[17:25:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JMateossj moved too quickly! 4.783638830700966,-1.1416851257765472,9.080509239217463
+[17:25:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2682ms behind, skipping 53 tick(s)
+[17:25:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[17:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[17:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Austiii_
+[17:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Austiii_: Teleported Austiii_ to JMateossj]
+[17:29:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ has made the advancement [Stone Age]
+[17:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj has made the advancement [Sweet dreams]
+[17:29:52] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[17:29:52] [Server thread/INFO] [RB-Transformer]:  - <init>
+[17:29:52] [Server thread/INFO] [RB-Transformer]:  - Done
+[17:29:52] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[17:29:52] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[17:29:52] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[17:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ has made the advancement [Sweet dreams]
