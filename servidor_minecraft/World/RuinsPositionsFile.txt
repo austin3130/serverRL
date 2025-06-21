@@ -104,7 +104,9 @@
 1305 46 7674 1309 48 7678 EmeraldOreOutcrop.tml
 1337 69 9286 1351 78 9294 SandstoneBld4_Ruined.tml
 1339 69 9363 1349 87 9373 Ziggurat.tml
+1341 68 8151 1346 71 8158 SandstoneHouse.tml
 1343 69 9198 1347 77 9202 SmallWell.tml
+1355 70 8069 1359 72 8073 EmeraldOreOutcrop.tml
 1360 68 7540 1367 72 7549 SandstoneStructure2_Ruined.tml
 1376 65 7737 1386 72 7749 SandstoneStructure1_Ruined.tml
 1381 65 7867 1396 74 7882 littlepyramid.tml
@@ -112,6 +114,7 @@
 1393 62 7662 1396 66 7665 StoneGrill.tml
 1413 64 9149 1422 71 9158 WoodHouse2_Intact.tml
 1428 66 7997 1437 71 8006 SandstoneHouse3_Intact.tml
+1435 69 8096 1442 73 8105 SandstoneStructure2_Ruined.tml
 1436 50 9250 1447 61 9286 SunkenShip-v3.tml
 1456 66 7768 1464 75 7782 SandstoneBld4_Ruined.tml
 1470 68 7669 1477 71 7674 SandstoneHouse.tml

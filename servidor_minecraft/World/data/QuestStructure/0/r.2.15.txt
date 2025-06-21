@@ -1,3 +1,5 @@
 SmallClockworkSite,1500,1522,7794,7813
 RLCraft_LargeUndergroundTown,1327,1440,7901,8038
 P_WizardTower,1510,1540,7981,8011
+RLCraft_BasicSkeleton,1473,1473,8140,8140
+RLCraft_UndergroundRuin1,1470,1479,8137,8146
