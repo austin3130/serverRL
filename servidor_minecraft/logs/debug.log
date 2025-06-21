@@ -496,3 +496,45 @@
 [23:20:36] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
 [23:20:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JMateossj lost connection: Disconnected
 [23:20:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj left the game
+[23:21:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:21:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:22:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:23:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:24:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:24:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:25:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:25:48] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[23:25:48] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.000s
+[23:25:48] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[23:25:48] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[23:25:48] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[23:25:48] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[23:25:48] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[23:25:48] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.001s
+[23:25:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:25:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:25:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:25:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[23:25:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:25:48] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:25:48] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[23:25:48] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[23:25:48] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[23:25:48] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[23:25:48] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[23:25:48] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[23:25:48] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[23:25:48] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[23:25:48] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.001s
+[23:25:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:25:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:25:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
