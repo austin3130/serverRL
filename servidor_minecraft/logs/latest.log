@@ -3840,3 +3840,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:12:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [18:12:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
 [18:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj has made the advancement [Getting an Upgrade]
+[18:23:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj was slain by Geonach
+[18:23:09] [Thread-154/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 62a5d654-eb66-3a27-b4a6-b6836d2910b8.
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[18:28:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
