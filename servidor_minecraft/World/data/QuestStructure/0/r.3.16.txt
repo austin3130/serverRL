@@ -4,3 +4,5 @@ RLCraft_SmallUndergroundSkeleton,1863,1871,8361,8369
 RLCraft_SmallUndergroundSkeleton,1534,1542,8357,8365
 RLCraft_BasicZombie,1776,1776,8455,8455
 RLCraft_UndergroundRuin1,1773,1782,8452,8461
+RLCraft_DecentSkeleton,1860,1860,8611,8611
+RLCraft_UndergroundRuin3,1855,1863,8609,8617
