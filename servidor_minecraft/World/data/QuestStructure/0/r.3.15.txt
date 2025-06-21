@@ -3,3 +3,5 @@ MeteorSite,1562,1592,7821,7836
 DesertHut,1709,1719,7883,7892
 DinosaurSkeleton,1693,1739,7899,7908
 P_WizardTower,1840,1870,8032,8062
+DesertWatchtower,1911,1921,7920,7930
+DinosaurSkeleton,1879,1925,8030,8039
