@@ -146,6 +146,7 @@
 1802 129 7668 1805 133 7671 StoneGrill.tml
 1815 68 7962 1821 79 7968 Obelisk.tml
 1823 35 93 1831 47 119 shipwreck.tml
+1836 66 7547 1849 75 7560 VolcanicVent.tml
 1846 71 7850 1855 74 7859 RuinedSmallFountainDiagonal.tml
 1856 50 8144 1886 107 8174 Pyramid.tml
 1869 63 12 1875 76 19 TP_FishingShack.tml

@@ -3776,3 +3776,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [17:39:32] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_desert_builtin_custom_loot at {"x": 1627, "y": 0, "z": 8397}...
 [17:39:34] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_desert_builtin_custom_loot at {"x": 1627, "y": 0, "z": 8397}.
 [17:39:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3133ms behind, skipping 62 tick(s)
+[17:43:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was pummeled by Wisp
+[17:43:51] [Thread-88/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 0b382904-45df-335b-a331-aa050a2148e9.
+[17:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj was pummeled by Naxiris
+[17:46:21] [Thread-94/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 62a5d654-eb66-3a27-b4a6-b6836d2910b8.
+[17:47:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ has made the advancement [Monster Hunter]
