@@ -3892,3 +3892,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:39:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj was slain by Krake
 [18:39:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Austiii_: Teleported Austiii_ to JMateossj]
 [18:40:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JMateossj: Set own game mode to Survival Mode]
+[18:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj was turned into KFC by a dragon
+[18:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ died from hyperthermia
+[18:41:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JMateossj: Set own game mode to Creative Mode]
+[18:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was incinerated by a dragon
+[18:43:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was pummeled by Cinder
+[18:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj died
+[18:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Austiii_: Killed JMateossj]
+[18:44:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Austiii_ lost connection: Disconnected
+[18:44:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ left the game
+[18:44:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JMateossj lost connection: Disconnected
+[18:44:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj left the game
+[18:45:01] [Server thread/INFO] [AUW]: Stopping DS...
+[18:45:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:45:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:45:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:45:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[18:45:02] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[18:45:02] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:45:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:45:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:45:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
