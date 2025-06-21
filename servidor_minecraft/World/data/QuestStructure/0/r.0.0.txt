@@ -1,0 +1,8 @@
+StoneLeafMound,-292,-283,108,115
+UndergroundCultChamber,-307,-275,309,351
+ShrineSmallAir,-252,-244,255,263
+RLCraft_BasicCaveSpider,-202,-202,229,229
+RLCraft_UndergroundRuin1,-208,-199,226,235
+WoodThorn,-222,-211,185,196
+RLCraft_DecentSkeleton,-21,-21,168,168
+RLCraft_UndergroundRuin2,-26,-19,163,173

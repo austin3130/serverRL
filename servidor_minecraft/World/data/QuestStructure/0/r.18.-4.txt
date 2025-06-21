@@ -1,0 +1,7 @@
+RLCraft_BasicCaveSpider,9660,9660,-2230,-2230
+RLCraft_UndergroundRuin1,9654,9663,-2233,-2224
+P_RuinedHouse,9670,9687,-2114,-2089
+RLCraft_DecentSkeleton,9703,9703,-2064,-2064
+RLCraft_UndergroundRuin3,9700,9708,-2066,-2058
+RLCraft_DecentSkeleton,9589,9589,-2278,-2278
+RLCraft_UndergroundRuin2,9587,9594,-2283,-2273

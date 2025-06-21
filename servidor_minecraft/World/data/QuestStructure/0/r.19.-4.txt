@@ -1,0 +1,4 @@
+P_TreeDungeon,9754,9799,-2227,-2185
+StonePlantMound2,9883,9895,-2196,-2183
+StonePlantMound1,9911,9917,-2232,-2226
+StonePlantMound,9892,9897,-2109,-2104

@@ -1,0 +1,9 @@
+StonePlantMound4,-1924,-1917,6134,6141
+StonePlantMound2,-1919,-1906,6128,6140
+StonePlantMound3,-1948,-1937,6126,6135
+SmallWoodenCottage,-1856,-1845,6090,6098
+StonePlantMound4,-1852,-1845,6041,6048
+StoneLeafMound,-1925,-1918,6014,6023
+StoneBoulder,-1827,-1818,6005,6014
+StonePlantMound1,-1840,-1834,5949,5955
+StonePlantMound1,-1866,-1860,5925,5931

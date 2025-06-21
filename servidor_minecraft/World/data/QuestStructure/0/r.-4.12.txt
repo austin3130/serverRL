@@ -1,0 +1,5 @@
+StonePlantMound3,-2076,-2065,6380,6389
+SmallWoodenCottage2,-2072,-2064,6296,6304
+StoneLeafMound,-2075,-2068,6260,6269
+SmallWoodenCottage2,-2071,-2063,6224,6232
+StonePlantMound4,-2110,-2103,6152,6159
