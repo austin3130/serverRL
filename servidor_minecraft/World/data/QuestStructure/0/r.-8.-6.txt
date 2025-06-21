@@ -1,2 +1,0 @@
-RLCraft_DecentCaveSpider,-4576,-4576,-3081,-3081
-RLCraft_UndergroundRuin2,-4578,-4571,-3086,-3076

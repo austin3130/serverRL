@@ -1,3 +1,0 @@
-RLCraft_SmallUndergroundSkeleton,-4764,-4756,-3196,-3188
-RLCraft_FriendlyOutpost,-4875,-4807,-3113,-3074
-StoneIceBoulder2,-4839,-4830,-3268,-3259

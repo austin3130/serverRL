@@ -1,2 +1,0 @@
-MeteorSite,1440,1470,7622,7637
-ShrineSmallFire,1315,1325,7564,7574

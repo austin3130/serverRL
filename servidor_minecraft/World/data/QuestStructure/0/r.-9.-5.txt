@@ -1,4 +1,0 @@
-RLCraft_UndergroundFarm,-4756,-4714,-3087,-3044
-SmallOutpost,-4736,-4714,-3058,-3028
-RLCraft_DecentWitch,-4645,-4645,-3018,-3018
-RLCraft_UndergroundRuin2,-4650,-4640,-3023,-3016
