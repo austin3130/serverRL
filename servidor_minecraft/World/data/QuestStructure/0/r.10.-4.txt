@@ -13,3 +13,4 @@ RLCraft_UndergroundRuin3,5559,5567,-2282,-2274
 DesertWatchtower,5613,5623,-2451,-2441
 RLCraft_SmallUndergroundSkeleton,5203,5211,-2528,-2520
 ShrineSmallFire,5380,5390,-2209,-2199
+StonePlantMound2,5624,5636,-2230,-2217

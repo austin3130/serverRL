@@ -249,7 +249,9 @@
     "criteria": {
       "cooked_porkchop": "2025-06-22 00:08:50 +0000",
       "cooked_mutton": "2025-06-21 23:42:10 +0000",
+      "cooked_beef": "2025-06-22 23:31:23 +0000",
       "beef": "2025-06-22 23:18:24 +0000",
+      "apple": "2025-06-22 23:24:47 +0000",
       "mutton": "2025-06-21 23:58:04 +0000"
     },
     "done": false
@@ -275,6 +277,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-22 00:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-06-22 23:32:47 +0000"
     },
     "done": true
   },
@@ -616,6 +624,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie": "2025-06-22 23:27:06 +0000",
       "spider": "2025-06-21 23:48:17 +0000"
     },
     "done": false
@@ -755,6 +764,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-22 00:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-06-22 23:32:47 +0000"
     },
     "done": true
   },
@@ -1148,6 +1163,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-22 00:25:38 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/iron_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2025-06-22 23:32:21 +0000"
     },
     "done": true
   },

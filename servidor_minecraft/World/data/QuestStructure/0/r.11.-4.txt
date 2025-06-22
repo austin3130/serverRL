@@ -17,3 +17,5 @@ StoneMazePathBig,5652,5660,-2371,-2363
 StoneMazeSmall,5652,5675,-2386,-2363
 RLCraft_SmallUndergroundSkeleton,5681,5689,-2271,-2263
 StoneBoulder,5677,5686,-2257,-2248
+StonePlantMound4,5695,5702,-2287,-2280
+SmallWoodenCottage1,5694,5705,-2277,-2271
