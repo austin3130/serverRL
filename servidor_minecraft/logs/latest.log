@@ -3895,3 +3895,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
 [23:42:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj was slain by Myrmex Royal
 [23:42:59] [Thread-111/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 62a5d654-eb66-3a27-b4a6-b6836d2910b8.
+[23:46:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrJuanNoob was pummeled by Reaper
+[23:46:44] [Thread-118/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for a231a327-4f49-3f14-9064-46ede05e21b0.
+[23:46:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrJuanNoob moved wrongly!
+[23:46:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrJuanNoob moved wrongly!
+[23:46:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrJuanNoob moved wrongly!
+[23:47:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JMateossj> ostim
+[23:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JMateossj> salete
+[23:47:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Austiii_> Q HAY MONSTROS DICE
+[23:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JMateossj> salete ps
+[23:48:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was slain by MrJuanNoob
+[23:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj has made the advancement [Isn't It Iron Pick]
+[23:51:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj was slain by Trumpet Skeleton
+[23:53:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MrJuanNoob lost connection: Disconnected
+[23:53:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrJuanNoob left the game
+[23:53:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JMateossj> oe
+[23:53:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JMateossj> dale acceso al jose
+[23:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <JMateossj> al drive
