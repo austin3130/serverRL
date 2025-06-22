@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_the_recipe": "2025-06-22 23:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-22 23:11:11 +0000"
@@ -369,6 +375,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-21 23:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-22 23:19:25 +0000"
     },
     "done": true
   },
@@ -610,7 +622,8 @@
       "ice_mountains": "2025-06-21 23:28:31 +0000",
       "extreme_hills": "2025-06-22 23:08:01 +0000",
       "roofed_forest": "2025-06-21 23:48:00 +0000",
-      "river": "2025-06-21 23:31:45 +0000"
+      "river": "2025-06-21 23:31:45 +0000",
+      "desert": "2025-06-22 23:17:07 +0000"
     },
     "done": false
   },
@@ -827,6 +840,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-21 23:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-06-22 23:19:29 +0000"
     },
     "done": true
   },

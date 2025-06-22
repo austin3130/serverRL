@@ -3754,3 +3754,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:10:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ has made the advancement [Suit Up]
 [23:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj has made the advancement [Ice Bucket Challenge]
 [23:11:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was turned into KFC by a dragon
+[23:13:49] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[23:13:49] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[23:13:49] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:13:49] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[23:13:49] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:13:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was turned into KFC by a dragon
+[23:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was turned into KFC by a dragon
+[23:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was turned into KFC by a dragon
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[23:15:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[23:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Austiii_: Set own game mode to Creative Mode]
+[23:15:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrJuanNoob was slain by Tremor
+[23:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrJuanNoob was blown up by Tremor
+[23:16:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrJuanNoob was slain by Fire Dragon
+[23:16:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrJuanNoob moved wrongly!
+[23:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrJuanNoob was slain by Tremor
+[23:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrJuanNoob was incinerated by a dragon
+[23:19:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj was slain by Geonach
+[23:20:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrJuanNoob was slain by Austiii_
+[23:20:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: JMateossj moved too quickly! -5.870404015064196,2.227779229040223,-8.234494305165754
+[23:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ died
+[23:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Austiii_: Killed Austiii_]
+[23:21:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj was slain by Geonach
+[23:21:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Austiii_: Set own game mode to Survival Mode]
+[23:21:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrJuanNoob moved wrongly!
+[23:21:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrJuanNoob moved wrongly!
+[23:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was slain by Balayang
