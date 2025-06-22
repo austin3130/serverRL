@@ -1,0 +1,5 @@
+OldWatchtower,5998,6011,5745,5757
+RLCraft_BasicSkeleton,6132,6132,5776,5776
+RLCraft_UndergroundRuin1,6126,6135,5770,5779
+StonePlantBoulder,5969,5979,5730,5740
+SmallOutpost,5892,5922,5645,5667

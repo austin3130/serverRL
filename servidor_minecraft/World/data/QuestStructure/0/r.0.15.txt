@@ -1,0 +1,4 @@
+StonePlantMound,-498,-493,8119,8124
+RLCraft_BasicSkeleton,-487,-487,8101,8101
+RLCraft_UndergroundRuin1,-490,-481,8098,8107
+StoneLeafMound,-391,-384,8016,8025

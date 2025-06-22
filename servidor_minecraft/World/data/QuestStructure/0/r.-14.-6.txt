@@ -1,0 +1,7 @@
+P_SkyCastle,-7670,-7629,-3174,-3133
+StoneIceBoulder,-7497,-7487,-3194,-3185
+RLCraft_BasicSpider,-7640,-7640,-3199,-3199
+RLCraft_UndergroundRuin1,-7646,-7637,-3205,-3196
+StoneIceBoulder2,-7441,-7432,-3198,-3189
+P_TreeDungeon,-7522,-7477,-3265,-3223
+StoneIceBoulder1,-7391,-7381,-3237,-3227

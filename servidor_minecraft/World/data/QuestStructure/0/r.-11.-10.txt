@@ -1,0 +1,12 @@
+ShrineSmallAir,-5980,-5972,-5352,-5344
+StoneBoulder,-5977,-5968,-5187,-5178
+StonePlantMound4,-5924,-5917,-5340,-5333
+StoneLeafMound,-5920,-5913,-5182,-5173
+StonePlantMound4,-5947,-5940,-5125,-5118
+StonePlantBoulder,-5878,-5868,-5370,-5360
+StoneLeafMound,-5891,-5884,-5401,-5392
+RLCraft_SmallUndergroundSkeleton,-5922,-5914,-5433,-5425
+StonePlantMound3,-5887,-5876,-5414,-5405
+StonePlantBoulder,-5909,-5899,-5442,-5432
+RLCraft_DecentZombie,-5936,-5936,-5454,-5454
+RLCraft_UndergroundRuin3,-5941,-5933,-5456,-5448

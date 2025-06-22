@@ -917,12 +917,6 @@ quark:polished_netherrack_bricks_stairs
 quark:polished_netherrack_bricks_slab
 quark:polished_netherrack_bricks_wall
 quark:quilted_wool
-quark:witch_hat
-quark:rune
-quark:black_ash
-quark:ancient_tome
-quark:soul_powder
-quark:parrot_egg
 quark:chute
 quark:sugar_block
 quark:redstone_randomizer
@@ -982,6 +976,12 @@ quark:dark_oak_button
 quark:grate
 quark:charcoal_block
 quark:glass_item_frame
+quark:witch_hat
+quark:rune
+quark:black_ash
+quark:ancient_tome
+quark:soul_powder
+quark:parrot_egg
 quark:roots
 quark:root
 quark:roots_blue_flower
@@ -1802,11 +1802,6 @@ scalinghealth:crystalshard
 scalinghealth:heartdust
 scalinghealth:healingitem
 scalinghealth:difficultychanger
-simpledifficulty:campfire
-simpledifficulty:rain_collector
-simpledifficulty:heater
-simpledifficulty:chiller
-simpledifficulty:spit
 simpledifficulty:purified_water_bottle
 simpledifficulty:juice
 simpledifficulty:canteen
@@ -1826,6 +1821,11 @@ simpledifficulty:ice_boots
 simpledifficulty:frost_powder
 simpledifficulty:frost_rod
 simpledifficulty:dragon_canteen
+simpledifficulty:campfire
+simpledifficulty:rain_collector
+simpledifficulty:heater
+simpledifficulty:chiller
+simpledifficulty:spit
 simpledifficulty:purifiedwater
 spartandefiled:katana_umbrium
 spartandefiled:greatsword_umbrium
@@ -3227,7 +3227,6 @@ wearablebackpacks:backpack
 firstaid:bandage
 firstaid:plaster
 firstaid:morphine
-ichunutil:compact_porkchop
 grapplemod:grapplinghook
 grapplemod:block_grapple_modifier
 grapplemod:enderhook
@@ -3251,6 +3250,7 @@ grapplemod:magnetupgradeitem
 grapplemod:doubleupgradeitem
 grapplemod:rocketupgradeitem
 grapplemod:limitsupgradeitem
+ichunutil:compact_porkchop
 testdummy:dummy
 trumpetskeleton:trumpet
 variedcommodities:vcrecipes_book

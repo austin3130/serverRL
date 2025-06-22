@@ -1,0 +1,13 @@
+P_Village2Story,5414,5420,-2449,-2436
+VillageSavannaGlassworks,5392,5402,-2426,-2414
+VillageTriplets,5444,5458,-2425,-2411
+VillageSavannaKitchen,5414,5426,-2407,-2397
+P_VillageFarmhouse,5420,5432,-2391,-2379
+VillageSavannaKitchen,5366,5376,-2368,-2356
+VillageLargeLibrary,5393,5412,-2380,-2360
+VillageSavannaStonemason,5365,5380,-2353,-2337
+VillageForgeLarge,5343,5359,-2340,-2328
+AbandonedWoodTower,5518,5548,-2447,-2411
+RLCraft_DecentSkeleton,5565,5565,-2277,-2277
+RLCraft_UndergroundRuin3,5559,5567,-2282,-2274
+DesertWatchtower,5613,5623,-2451,-2441

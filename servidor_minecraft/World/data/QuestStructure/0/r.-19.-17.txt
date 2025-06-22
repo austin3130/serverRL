@@ -1,0 +1,7 @@
+ShrineSmallAir,-10005,-9997,-8866,-8858
+RLCraft_BasicZombie,-10021,-10021,-8804,-8804
+RLCraft_UndergroundRuin1,-10024,-10015,-8807,-8798
+RLCraft_LargeUndergroundTown,-9999,-9886,-8829,-8692
+RLCraft_SmallUndergroundSkeleton,-10090,-10082,-8810,-8802
+ShrineSmallFire,-9836,-9826,-8773,-8763
+RLCraft_SmallUndergroundSkeleton,-10092,-10084,-8948,-8940

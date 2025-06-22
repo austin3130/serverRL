@@ -1,0 +1,4 @@
+StonePlantMound4,-3548,-3541,4369,4376
+P_Deqing,-3565,-3513,4381,4428
+StoneBoulder,-3496,-3487,4452,4461
+StonePlantMound3,-3473,-3462,4368,4377

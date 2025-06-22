@@ -1,0 +1,12 @@
+RLCraft_DecentSpider,9748,9748,-4122,-4122
+RLCraft_UndergroundRuin3,9742,9750,-4127,-4119
+StonePlantBoulder,9790,9800,-4149,-4139
+DinosaurSkeleton,9810,9819,-4153,-4107
+StonePlantMound1,9829,9835,-4253,-4247
+StoneLeafMound,9823,9830,-4122,-4113
+StoneBoulder,9888,9897,-4333,-4324
+BrickHenge,9884,9900,-4208,-4192
+SmallWoodenCottage,9896,9904,-4223,-4212
+RLCraft_SmallUndergroundSkeleton,9905,9913,-4226,-4218
+DinosaurSkeleton,9906,9915,-4196,-4150
+StoneLeafMound,9897,9904,-4179,-4170

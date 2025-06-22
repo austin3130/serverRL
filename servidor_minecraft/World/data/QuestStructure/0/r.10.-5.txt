@@ -1,0 +1,3 @@
+DinosaurSkeleton,5362,5408,-2585,-2576
+RLCraft_LargeUndergroundTown,5266,5379,-2640,-2503
+RLCraft_SmallUndergroundSkeleton,5416,5424,-2642,-2634

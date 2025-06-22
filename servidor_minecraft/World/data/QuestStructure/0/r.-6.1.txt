@@ -1,0 +1,12 @@
+AbandonedWoodTower,-3552,-3516,498,528
+StonePlantMound1,-3522,-3516,606,612
+RLCraft_DecentZombie,-3536,-3536,637,637
+RLCraft_UndergroundRuin3,-3542,-3534,634,642
+RLCraft_BasicSpider,-3471,-3471,560,560
+RLCraft_UndergroundRuin1,-3474,-3465,554,563
+RLCraft_LargeUndergroundTown,-3523,-3410,459,596
+StoneBoulder,-3560,-3551,677,686
+StonePlantMound,-3518,-3513,684,689
+StonePlantMound1,-3432,-3426,599,605
+StoneLeafMound,-3406,-3399,528,537
+StoneBoulder,-3384,-3375,642,651

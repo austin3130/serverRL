@@ -1,0 +1,4 @@
+ShrineSmallFire,6146,6156,5607,5617
+StonePlantMound3,6145,6154,5606,5617
+RLCraft_BasicSkeleton,6180,6180,5325,5325
+RLCraft_UndergroundRuin1,6177,6186,5322,5331

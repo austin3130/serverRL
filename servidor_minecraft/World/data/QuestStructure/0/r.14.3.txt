@@ -1,0 +1,3 @@
+RLCraft_DecentWitch,7172,7172,1832,1832
+RLCraft_UndergroundRuin2,7170,7177,1827,1837
+SmallWoodenCottage,7192,7200,1812,1823

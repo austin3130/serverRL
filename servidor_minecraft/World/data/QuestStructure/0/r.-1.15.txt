@@ -1,0 +1,7 @@
+StonePlantMound2,-530,-517,8135,8147
+StonePlantMound,-539,-534,8088,8093
+StonePlantMound,-554,-549,8087,8092
+BlazeSpawnerCrystal,-549,-543,8080,8086
+UndergroundCultChamber,-649,-617,8151,8193
+DinosaurSkeleton,-657,-648,8103,8149
+RLCraft_SmallUndergroundSkeleton,-678,-670,8145,8153

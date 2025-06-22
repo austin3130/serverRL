@@ -1,0 +1,9 @@
+StonePlantBoulder,-3649,-3639,542,552
+RLCraft_DecentSkeleton,-3665,-3665,592,592
+RLCraft_UndergroundRuin2,-3670,-3660,587,594
+StonePlantMound2,-3662,-3649,599,611
+Tree_Oak_TheMushroomOak_v3,-3794,-3735,554,604
+SmallAbandonedMine,-3806,-3781,513,528
+StonePlantBoulder,-3770,-3760,625,635
+StonePlantMound1,-3788,-3782,598,604
+RLCraft_SmallUndergroundSkeleton,-3593,-3585,693,701

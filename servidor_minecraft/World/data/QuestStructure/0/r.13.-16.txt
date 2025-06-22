@@ -1,0 +1,5 @@
+WoodWallRemains,6964,6972,-8257,-8229
+StoneLeafMound,7120,7127,-8227,-8218
+MysticalTree1,7127,7140,-8247,-8236
+RLCraft_DecentZombie,6927,6927,-8306,-8306
+RLCraft_UndergroundRuin2,6922,6932,-8308,-8301

@@ -1,0 +1,4 @@
+UndergroundCrypt,-3555,-3541,486,514
+RLCraft_DecentZombie,-3532,-3532,452,452
+RLCraft_UndergroundRuin2,-3537,-3527,447,454
+RLCraft_SmallUndergroundSkeleton,-3362,-3354,348,356

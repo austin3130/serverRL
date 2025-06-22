@@ -1,0 +1,18 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "0b382904-45df-335b-a331-aa050a2148e9",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "avena polaca"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+ShrineSmallFire,4600,4610,6935,6945
+FallenPalmTree,4537,4541,6932,6942
+ShrineSmallFire,4491,4501,6846,6856

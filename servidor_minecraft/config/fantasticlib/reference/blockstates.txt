@@ -3643,10 +3643,6 @@ quark:quilted_wool:12
 quark:quilted_wool:13
 quark:quilted_wool:14
 quark:quilted_wool:15
-quark:glowstone_dust_block:0
-quark:gunpowder_block:0
-quark:gunpowder_block:1
-quark:black_ash:0
 quark:chute:0
 quark:chute:1
 quark:sugar_block:0
@@ -3952,6 +3948,10 @@ quark:blaze_rod:2
 quark:blaze_rod:3
 quark:blaze_rod:4
 quark:blaze_rod:5
+quark:glowstone_dust_block:0
+quark:gunpowder_block:0
+quark:gunpowder_block:1
+quark:black_ash:0
 quark:roots:0
 quark:roots:1
 quark:roots:2

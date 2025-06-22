@@ -1,0 +1,4 @@
+P_SmallShip,5874,5880,7007,7027
+RLCraft_BasicSpider,5728,5728,7096,7096
+RLCraft_UndergroundRuin1,5725,5734,7090,7099
+ShrineSmallWater,5676,5684,6831,6839

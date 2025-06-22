@@ -1,0 +1,5 @@
+StoneBoulder,-4350,-4341,4651,4660
+StonePlantMound4,-4353,-4346,4663,4670
+StonePlantMound3,-4208,-4197,4646,4655
+ShrineSmallFire,-4456,-4446,4636,4646
+MysticalTree2,-4145,-4135,4650,4660

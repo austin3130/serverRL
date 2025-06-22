@@ -1,0 +1,3 @@
+RLCraft_DecentWitch,9165,9165,2343,2343
+RLCraft_UndergroundRuin3,9159,9167,2340,2348
+RLCraft_WilySmile,9114,9129,2457,2472

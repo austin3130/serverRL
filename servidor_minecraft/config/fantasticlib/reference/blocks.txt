@@ -755,9 +755,6 @@ quark:polished_netherrack_bricks_slab
 quark:polished_netherrack_bricks_slab_double
 quark:polished_netherrack_bricks_wall
 quark:quilted_wool
-quark:glowstone_dust_block
-quark:gunpowder_block
-quark:black_ash
 quark:chute
 quark:sugar_block
 quark:redstone_randomizer
@@ -814,6 +811,9 @@ quark:dark_oak_button
 quark:grate
 quark:charcoal_block
 quark:blaze_rod
+quark:glowstone_dust_block
+quark:gunpowder_block
+quark:black_ash
 quark:roots
 quark:roots_blue_flower
 quark:roots_black_flower

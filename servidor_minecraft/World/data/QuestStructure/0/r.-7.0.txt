@@ -1,0 +1,9 @@
+StoneBoulder,-3658,-3649,476,485
+StonePlantMound3,-3728,-3719,492,503
+StoneBoulder,-3615,-3606,432,441
+RLCraft_SmallUndergroundSkeleton,-3728,-3720,435,443
+SmallFortRuins,-3700,-3670,361,393
+ShrineSmallAir,-3654,-3646,384,392
+RLCraft_DecentZombie,-3820,-3820,452,452
+RLCraft_UndergroundRuin3,-3822,-3814,447,455
+RLCraft_SmallUndergroundSkeleton,-3817,-3809,319,327

@@ -1,0 +1,6 @@
+StoneLeafMound,-4346,-4337,2553,2560
+RLCraft_SmallUndergroundSkeleton,-4483,-4475,2494,2502
+StonePlantBoulder,-4468,-4458,2432,2442
+StonePlantMound4,-4559,-4552,2418,2425
+StonePlantMound1,-4222,-4216,2455,2461
+BlazeSpawnerCrystal,-4222,-4216,2434,2440

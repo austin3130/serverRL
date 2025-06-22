@@ -1,0 +1,5 @@
+StonePlantMound2,-618,-606,8187,8200
+RLCraft_SmallUndergroundSkeleton,-544,-536,8265,8273
+SmallWoodenCottage2,-668,-660,8251,8259
+RLCraft_DecentWitch,-602,-602,8328,8328
+RLCraft_UndergroundRuin3,-608,-600,8323,8331
