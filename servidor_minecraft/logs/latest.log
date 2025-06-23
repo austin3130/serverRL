@@ -53,3 +53,6 @@
 [00:35:49] [Server thread/INFO] [XAT]: Syncing Config to Austiii_
 [00:38:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JMateossj lost connection: Disconnected
 [00:38:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JMateossj left the game
+[00:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was slain by Myrmex Sentinel
+[00:53:28] [Thread-234/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 0b382904-45df-335b-a331-aa050a2148e9.
+[00:54:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was slain by Myrmex Sentinel
