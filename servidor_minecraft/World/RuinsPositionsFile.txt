@@ -299,6 +299,7 @@
 5503 66 -2449 5508 71 -2442 SandstoneRuin.tml
 5508 62 -2159 5520 84 -2147 BaloonVeryLow.tml
 5530 68 -2253 5538 78 -2245 LargeStoneHouseWBasement.tml
+5540 69 -2706 5549 78 -2698 HutRuined.tml
 5540 65 -2620 5548 70 -2612 LargeSandstoneHouse.tml
 5543 63 -2525 5552 66 -2516 RuinedSmallFountainDiagonal.tml
 5553 64 -2338 5561 70 -2330 ShortTower.tml
