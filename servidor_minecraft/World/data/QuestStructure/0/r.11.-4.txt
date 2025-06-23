@@ -20,3 +20,4 @@ StoneBoulder,5677,5686,-2257,-2248
 StonePlantMound4,5695,5702,-2287,-2280
 SmallWoodenCottage1,5694,5705,-2277,-2271
 DinosaurSkeleton,5733,5742,-2419,-2373
+WoodWallRemains,5758,5766,-2303,-2275

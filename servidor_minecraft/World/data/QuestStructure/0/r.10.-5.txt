@@ -2,3 +2,4 @@ DinosaurSkeleton,5362,5408,-2585,-2576
 RLCraft_LargeUndergroundTown,5266,5379,-2640,-2503
 RLCraft_SmallUndergroundSkeleton,5416,5424,-2642,-2634
 DinosaurSkeleton,5217,5263,-2676,-2667
+StonePlantMound4,5606,5613,-2699,-2692

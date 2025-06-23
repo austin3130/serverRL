@@ -315,7 +315,9 @@
 5701 62 -2506 5707 73 -2500 Obelisk.tml
 5718 62 -2349 5723 91 -2344 GoldWell.tml
 5721 68 -2261 5728 71 -2256 PumpkinField.tml
+5755 68 -2428 5761 85 -2422 VanillaVillageWell-p.tml
 5757 40 6944 5783 52 6952 shipwreck.tml
+5760 67 -2633 5769 75 -2625 WoodHouse_Intact.tml
 5793 63 7030 5827 73 7065 UnderwaterBase.tml
 5898 63 6831 5905 76 6837 TP_FishingShack.tml
 5903 63 5475 5911 71 5484 WoodHouse_Intact.tml

@@ -61,3 +61,44 @@
 [00:55:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was slain by Myrmex Soldier
 [00:56:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was slain by Myrmex Soldier
 [00:58:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ was shot by Skeleton
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[01:06:23] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[01:06:48] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[01:10:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ drowned
+[01:12:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ drowned
+[01:12:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Austiii_ lost connection: Disconnected
+[01:12:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Austiii_ left the game
+[01:13:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:13:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:13:16] [Server thread/WARN] [com.matthewprenger.helpfixer.HelpFixer]: Identified command with null usage, Ignoring: com.github.fnar.roguelike.command.CommandRoguelike1_12
+[01:13:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:13:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
