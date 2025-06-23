@@ -285,6 +285,7 @@
 5274 69 -2620 5286 114 -2608 TowerEasy.tml
 5277 63 -2361 5289 117 -2349 BaloonHigh.tml
 5315 74 -2434 5323 84 -2426 TallTower.tml
+5328 63 -2084 5360 76 -2052 Floater.tml
 5356 70 -2666 5368 115 -2654 TowerMedium.tml
 5379 67 -2555 5383 69 -2551 EmeraldOreOutcrop.tml
 5382 66 -2314 5394 137 -2302 GateUnderGlass.tml
@@ -294,6 +295,7 @@
 5449 71 -2585 5452 75 -2582 StoneGrill.tml
 5463 62 -2656 5467 70 -2652 SmallWell.tml
 5480 69 -2353 5485 77 -2348 PillarBase.tml
+5496 47 -2081 5507 58 -2045 SunkenShip-v3.tml
 5503 66 -2449 5508 71 -2442 SandstoneRuin.tml
 5508 62 -2159 5520 84 -2147 BaloonVeryLow.tml
 5530 68 -2253 5538 78 -2245 LargeStoneHouseWBasement.tml
@@ -303,6 +305,8 @@
 5585 63 -2415 5594 70 -2403 SandstoneStructure1_Intact.tml
 5609 68 -2246 5618 75 -2238 WoodHouse_Ruined.tml
 5622 61 -2527 5630 107 -2519 SandCastle.tml
+5628 63 -2155 5640 104 -2143 BaloonLow.tml
+5629 34 -2073 5637 46 -2047 shipwreck.tml
 5646 67 -2331 5651 72 -2324 ZombieHut.tml
 5650 63 7016 5680 106 7046 SkyCastle.tml
 5659 63 6890 5690 103 6920 CastleOcean.tml

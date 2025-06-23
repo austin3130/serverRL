@@ -2370,11 +2370,38 @@
     },
     "168:10": {
       "questID:3": 168,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "62a5d654-eb66-3a27-b4a6-b6836d2910b8",
+          "timestamp:4": 1750637701901
+        },
+        "1:10": {
+          "claimed:1": 0,
+          "uuid:8": "0b382904-45df-335b-a331-aa050a2148e9",
+          "timestamp:4": 1750638353409
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "0b382904-45df-335b-a331-aa050a2148e9",
+            "1:8": "62a5d654-eb66-3a27-b4a6-b6836d2910b8"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "62a5d654-eb66-3a27-b4a6-b6836d2910b8"
+            },
+            "1:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "0b382904-45df-335b-a331-aa050a2148e9"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }
@@ -2733,16 +2760,26 @@
           "claimed:1": 0,
           "uuid:8": "62a5d654-eb66-3a27-b4a6-b6836d2910b8",
           "timestamp:4": 1750635887699
+        },
+        "1:10": {
+          "claimed:1": 0,
+          "uuid:8": "0b382904-45df-335b-a331-aa050a2148e9",
+          "timestamp:4": 1750637948400
         }
       },
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {
-            "0:8": "62a5d654-eb66-3a27-b4a6-b6836d2910b8"
+            "0:8": "0b382904-45df-335b-a331-aa050a2148e9",
+            "1:8": "62a5d654-eb66-3a27-b4a6-b6836d2910b8"
           },
           "userProgress:9": {
             "0:10": {
               "uuid:8": "62a5d654-eb66-3a27-b4a6-b6836d2910b8",
+              "value:3": 1
+            },
+            "1:10": {
+              "uuid:8": "0b382904-45df-335b-a331-aa050a2148e9",
               "value:3": 1
             }
           },
