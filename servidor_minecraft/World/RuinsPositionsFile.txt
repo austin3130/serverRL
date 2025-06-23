@@ -280,6 +280,7 @@
 4716 186 6879 4726 192 6887 VanillaVillageForge-r.tml
 4741 63 6833 4753 104 6845 BaloonLow.tml
 5202 49 -2425 5210 61 -2399 shipwreck.tml
+5225 63 -2185 5260 73 -2151 UnderwaterBase.tml
 5258 63 -2281 5288 106 -2251 SkyCastle.tml
 5274 69 -2620 5286 114 -2608 TowerEasy.tml
 5277 63 -2361 5289 117 -2349 BaloonHigh.tml
@@ -294,6 +295,7 @@
 5463 62 -2656 5467 70 -2652 SmallWell.tml
 5480 69 -2353 5485 77 -2348 PillarBase.tml
 5503 66 -2449 5508 71 -2442 SandstoneRuin.tml
+5508 62 -2159 5520 84 -2147 BaloonVeryLow.tml
 5530 68 -2253 5538 78 -2245 LargeStoneHouseWBasement.tml
 5540 65 -2620 5548 70 -2612 LargeSandstoneHouse.tml
 5543 63 -2525 5552 66 -2516 RuinedSmallFountainDiagonal.tml
